@@ -1,0 +1,31 @@
+﻿  MAKat-GDIOnly.cpp
+MAKat-GDIOnly.cpp(228): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+MAKat-GDIOnly.cpp(229): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+MAKat-GDIOnly.cpp(202): warning C4101: 'hslcolor': unreferenced local variable
+MAKat-GDIOnly.cpp(217): warning C4101: 'rgbquadCopy': unreferenced local variable
+MAKat-GDIOnly.cpp(445): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+MAKat-GDIOnly.cpp(446): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+MAKat-GDIOnly.cpp(447): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+MAKat-GDIOnly.cpp(448): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+MAKat-GDIOnly.cpp(421): warning C4101: 'hslcolor': unreferenced local variable
+MAKat-GDIOnly.cpp(510): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+MAKat-GDIOnly.cpp(511): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+MAKat-GDIOnly.cpp(481): warning C4101: 'hslcolor': unreferenced local variable
+MAKat-GDIOnly.cpp(499): warning C4101: 'rgbquadCopy': unreferenced local variable
+MAKat-GDIOnly.cpp(642): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+MAKat-GDIOnly.cpp(643): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+MAKat-GDIOnly.cpp(613): warning C4101: 'hslcolor': unreferenced local variable
+MAKat-GDIOnly.cpp(631): warning C4101: 'rgbquadCopy': unreferenced local variable
+MAKat-GDIOnly.cpp(741): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+MAKat-GDIOnly.cpp(742): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+MAKat-GDIOnly.cpp(712): warning C4101: 'hslcolor': unreferenced local variable
+MAKat-GDIOnly.cpp(730): warning C4101: 'rgbquadCopy': unreferenced local variable
+MAKat-GDIOnly.cpp(840): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+MAKat-GDIOnly.cpp(841): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+MAKat-GDIOnly.cpp(811): warning C4101: 'hslcolor': unreferenced local variable
+MAKat-GDIOnly.cpp(829): warning C4101: 'rgbquadCopy': unreferenced local variable
+  Generating code
+  All 80 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  MAKat-GDIOnly.vcxproj -> D:\Solutions\MAKat-GDIOnly\x64\Release\MAKat-GDIOnly.exe
+  MAKat-GDIOnly.vcxproj -> D:\Solutions\MAKat-GDIOnly\x64\Release\MAKat-GDIOnly.pdb (Full PDB)
